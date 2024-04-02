@@ -1,0 +1,5 @@
+train: D:\\2024_ML\\Object Detection\\Industry-Safety-Detection\\train.txt
+val: D:\\2024_ML\\Object Detection\\Industry-Safety-Detection\\val.txt
+
+nc: 5
+names: ['Helmet','Goggles','Jacket','Gloves','Footwear']
