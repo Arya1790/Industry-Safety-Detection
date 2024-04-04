@@ -44,6 +44,6 @@ MODEL PUSHER related constant start with MODEL_PUSHER var name
 """
 MODEL_BUCKET_NAME = "object-1"
 # "isd-data-24"
-S3_MODEL_NAME = "best.pt"
+S3_MODEL_NAME = "best1.pt"
 
-MODEL_FILE_NAME = "best.pt"
+MODEL_FILE_NAME = "best1.pt"
